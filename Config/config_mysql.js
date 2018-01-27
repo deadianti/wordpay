@@ -4,7 +4,7 @@ exports.connection = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
   password : '',
-  database : 'wordpay'
+  database : 'padang_store'
 });
  
 // connection.connect();
